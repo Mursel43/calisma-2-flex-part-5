@@ -1,0 +1,47 @@
+.esas{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    gap: 40px;
+}
+
+.esas div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid rgba(0, 0, 0, 0.345);
+    border-radius: 8px; 
+    height: 300px;
+    width: 200px; 
+    padding: 20PX;
+}
+
+.esas DIV form{
+    margin-top: auto;
+}
+
+
+h2{
+    font-size: 20px;
+    font-weight:bold;
+    padding:5px;
+}
+h1{
+    font-size: 30px;
+    font-weight: bold;
+    padding: 5px;
+}
+p{
+    padding: 5px;
+}
+
+button{
+    border-radius: 20px;
+    border: 0px;
+    background-color: orange;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}

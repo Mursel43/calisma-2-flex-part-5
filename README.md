@@ -1,0 +1,2 @@
+# Biraz çətin tapşərəq
+Bu mənim üçün biraz çətin tapşırıq oldu amma bacardım burda online plan alma sehifesi yatardim yeni obiriler kimi yene bir ise yaramir yeni cansiz goruntudur getdiyce daha yaxşlarını hazırlayacam.
